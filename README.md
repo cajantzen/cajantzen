@@ -1,8 +1,8 @@
 
 - 🧠 PhD student @CNG-LAB
-- 🌊 Working on brain dynamics 
+- 🌊 Working on brain dynamics and state-dependet neural timescales
 
-`Last updated: 2025-08-29`
+`Last updated: 2026-07-09`
 
 <!--
 **carolinejantzen/carolinejantzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
